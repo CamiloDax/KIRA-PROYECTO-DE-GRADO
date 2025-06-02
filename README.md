@@ -7,7 +7,7 @@ Desarrollo de KIRA que es un sistema híbrido de retroalimentación que combina 
 
 🗃️ [PROYECTO DE GRADO DEL DESARROLLO DE LA PLATAFORMA WEB "TERMINADO"]()
 
-🖇️ [ARBOL DEL PROBLEMA]()
+🖇️ [ARBOL DEL PROBLEMA](https://github.com/CamiloDax/KIRA-PROYECTO-DE-GRADO/blob/main/ARBOL%20DEL%20PROBLEMA.pdf)
 
 🖇️ [PRESUPUESTO]()
 
