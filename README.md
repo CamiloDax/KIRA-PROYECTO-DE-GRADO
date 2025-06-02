@@ -1,7 +1,7 @@
 # KIRA-PROYECTO-DE-GRADO
 Desarrollo de KIRA que es un sistema híbrido de retroalimentación que combina una aplicación web y una caja física en El Espinal, Tolima. Facilita a los clientes registrar su satisfacción y permite a los administradores acceder a reportes en tiempo real para mejorar la calidad del servicio y fomentar la mejora continua.
 
-:file_folder: **REPOSITORIO PROYECTO ROLAND CarAudio**
+:file_folder: **REPOSITORIO PROYECTO KIRA**
 
 :paperclip: **ARCHIVOS**:
 
