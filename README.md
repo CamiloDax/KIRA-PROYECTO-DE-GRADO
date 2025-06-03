@@ -13,7 +13,7 @@ Desarrollo de KIRA que es un sistema híbrido de retroalimentación que combina 
 
 🖇️ [CRONOGRAMA DE ACTIVIDADES](https://github.com/CamiloDax/KIRA-PROYECTO-DE-GRADO/blob/main/CRONOGRAMA%20DE%20ACTIVIDADES.pdf)
 
-🖇️ [HISTORIAS DE USUARIO](HISTORIAS_DE_USUARIO_PGRCA.pdf)
+🖇️ [HISTORIAS DE USUARIO](https://github.com/CamiloDax/KIRA-PROYECTO-DE-GRADO/blob/main/HISTORIAS%20DE%20USUARIO.pdf)
 
 🖇️ [WIREFRAMES Y MOCKUPS](WIREFRAMES_Y_MOCUKUPS_PGRCA.pdf)
 
